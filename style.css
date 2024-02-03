@@ -1,0 +1,7 @@
+body {
+    background: url("https://upload.wikimedia.org/wikipedia/commons/6/6e/Toyota_GR_Supra_SZ-R_%283BA-DB82-ZSRW%29.jpg") no-repeat fixed;
+    background-size:cover;
+    -webkit-background-size:cover;
+    -o-background-size:cover;
+    -moz-background-size:cover;
+}
